@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-shrivastava-9b09b121b/)](https://www.linkedin.com/in/yash-shrivastava-9b09b121b/)
+![Linkedin Badge](https://img.shields.io/badge/-Yash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-shrivastava-9b09b121b/)](https://www.linkedin.com/in/yash-shrivastava-9b09b121b/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Yash-yellow)](https://stackoverflow.com/users/18328764/yash-shrivastava)
 
 I'm
